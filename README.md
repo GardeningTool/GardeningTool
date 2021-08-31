@@ -33,11 +33,11 @@ My ideal method of contact is through Telegram (@Gardening_Tool).
 
 ## 🖥️ PC Specs
 
-CPU: Intel i9-9900k 8-Core 16 Thread CPU
-Motherboard: Gigabyte Z390 Gaming X Motherboard
-RAM: 2x8 DDR4-3000
-Storage: 1x WD Black 500GB NVMe M.2 SSD
-GPU: RTX 3070
+- CPU: Intel i9-9900k 8-Core 16 Thread CPU
+- Motherboard: Gigabyte Z390 Gaming X Motherboard
+- RAM: 2x8 DDR4-3000
+- Storage: 1x WD Black 500GB NVMe M.2 SSD
+- GPU: NVIDIA RTX 3070
 
 ## 🚧 Projects
 
