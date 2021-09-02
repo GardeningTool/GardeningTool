@@ -12,10 +12,10 @@
 ![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=windows&logoColor=white&color=9c84ef)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=9c84ef)
 
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=for-the-badge&logo=intellij-idea&logoColor=white&color=9c84ef)
-![](https://img.shields.io/badge/Editor-PhpStorm-informational?style=for-the-badge&logo=phpstorm&logoColor=white&color=9c84ef)
-![](https://img.shields.io/badge/Editor-PyCharm-informational?style=for-the-badge&logo=pycharm&logoColor=white&color=9c84ef)
-![](https://img.shields.io/badge/Editor-CLion-informational?style=for-the-badge&logo=clion&logoColor=white&color=9c84ef)
+![](https://img.shields.io/badge/ide-IntelliJ_IDEA-informational?style=for-the-badge&logo=intellij-idea&logoColor=white&color=9c84ef)
+![](https://img.shields.io/badge/ide-PhpStorm-informational?style=for-the-badge&logo=phpstorm&logoColor=white&color=9c84ef)
+![](https://img.shields.io/badge/ide-PyCharm-informational?style=for-the-badge&logo=pycharm&logoColor=white&color=9c84ef)
+![](https://img.shields.io/badge/ide-CLion-informational?style=for-the-badge&logo=clion&logoColor=white&color=9c84ef)
 
 ![](https://img.shields.io/badge/Language-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=9c84ef)
 ![](https://img.shields.io/badge/Language-C++-informational?style=for-the-badge&logo=c++&logoColor=white&color=9c84ef)
